@@ -53,4 +53,3 @@ if st.button("Get Recommendations"):
 if st.checkbox("Show Top 5 Most Popular Movies"):
     top_popular = df.sort_values("popularity", ascending=False)[['title', 'popularity']].head(5)
     st.dataframe(top_popular.reset_index(drop=True))
-#ok
