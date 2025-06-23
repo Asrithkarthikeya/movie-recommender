@@ -44,3 +44,4 @@ This is a **Movie Recommendation Web App** built using **Python**, **Pandas**, *
 ```bash
 git clone https://github.com/Asrithkarthikeya/movie-recommender.git
 cd movie-recommender
+python -m streamlit run app.py
