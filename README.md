@@ -30,10 +30,9 @@ This is a **Movie Recommendation Web App** built using **Python**, **Pandas**, *
 
 ## 📁 Dataset Used
 
-- `movies.csv` – contains movie titles and genres
-- `ratings.csv` – contains user ratings for each movie
+- `tmdb_5000_movies.csv` – contains movie titles and genres
+- `tmdb_5000_credits.csv` – contains credits for each movie
 
-> These datasets are from the [MovieLens 100k dataset](https://grouplens.org/datasets/movielens/100k/).
 
 ---
 
